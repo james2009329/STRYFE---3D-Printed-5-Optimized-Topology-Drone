@@ -8,7 +8,7 @@ A fully 3D-printable 5" FPV freestyle drone frame, designed in Fusion 360 using 
 
 ## Test Flight
 
-**[Watch it fly on YouTube →](https://youtube.com/shorts/oiSVrfM4jPY?si=SMwh-cmVWzysh2-i)**
+**[Watch it fly on YouTube](https://youtube.com/shorts/oiSVrfM4jPY?si=SMwh-cmVWzysh2-i)**
 
 ## Features
 
