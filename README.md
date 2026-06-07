@@ -1,6 +1,6 @@
 # STRYFE - 3D Printed 5" Optimized Topology FPV Drone
 
-A fully 3D-printable 5" FPV freestyle drone frame, designed in Fusion 360 using generative/topology optimization tools to maximize strength while minimizing weight. I Built to fit on smaller 3D printers. It is printable on printers 120mm+ by 120mm+! I printed it on my BambuLabs A1 mini. This is my first drone build, so I'd really appreciate any feedback on printables. 
+A fully 3D-printable 5" FPV freestyle drone frame, designed in Fusion 360 using generative/topology optimization tools to maximize strength while minimizing weight. I Built to fit on smaller 3D printers. It is printable on printers 120mm+ by 120mm+! I printed it on my BambuLabs A1 mini. This is my first drone build, so I'd really appreciate any feedback on printables. Printables: https://www.printables.com/model/1747302-stryfe-3d-printed-5-optimized-topology-drone
 
 > Inspired by [ProgrammaDan's Dragonfly FPV Drone](https://github.com/ProgrammaDan/dragonfly-fpv)
 
@@ -61,7 +61,7 @@ A fully 3D-printable 5" FPV freestyle drone frame, designed in Fusion 360 using 
 
 ## How It Works
 
-The frame geometry was generated using Fusion 360's Generative Design feature, which runs stress simulations to find the most efficient material distribution for a given set of loads. Instead of designing the arms manually, I defined the mounting points, obstacle geometry, and expected force directions. I then let the the solver generate a design that is 3D printable. I ended up running around 10+ simulations because the solver would generate me branches that looked too thin to 3D print reliably. 
+The frame geometry was generated using Fusion 360's Generative Design feature, which runs stress simulations to find the most efficient material distribution for a given set of loads. Instead of designing the arms manually, I set the mounting points, obstacle geometry, and expected force directions. I then let the the solver generate a design that is 3D printable. I ended up running around 10+ simulations because the solver would generate me branches that looked too thin to 3D print reliably. I'm really happy with how the drone came out, and feel free to change or modify it to your liking! 
 
 ## Credits
 
