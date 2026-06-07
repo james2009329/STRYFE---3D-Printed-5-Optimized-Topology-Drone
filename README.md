@@ -1,6 +1,6 @@
 # STRYFE - 3D Printed 5" Optimized Topology FPV Drone
 
-A fully 3D-printable 5" FPV freestyle drone frame, designed in Fusion 360 using generative/topology optimization tools to maximize strength while minimizing weight. I Built to fit on smaller 3D printers. It is printable on printers 120mm+ by 120mm+!
+A fully 3D-printable 5" FPV freestyle drone frame, designed in Fusion 360 using generative/topology optimization tools to maximize strength while minimizing weight. I Built to fit on smaller 3D printers. It is printable on printers 120mm+ by 120mm+! I printed it on my BambuLabs A1 mini. This is my first drone build, so I'd really appreciate any feedback on printables. 
 
 > Inspired by [ProgrammaDan's Dragonfly FPV Drone](https://github.com/ProgrammaDan/dragonfly-fpv)
 
